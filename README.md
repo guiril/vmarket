@@ -2,11 +2,6 @@
 
 使用 **Vue CLI** 建立 **Vue.js** 專案環境，透過 **AJAX** 串接 API 模擬電商網頁的購物流程。
 
-## Demo
-
-**V-MARKET**：
-[https://ouiis.github.io/vmarket](https://guiril.github.io/vmarket "V-MARKET")
-
 ## 主要使用技術
 
 * 使用 **Vue CLI** 搭建 **Vue.js**，建立 SPA 網頁。
